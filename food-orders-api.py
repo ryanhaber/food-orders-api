@@ -34,7 +34,7 @@ class ordersList:
 		if self.allOrders[itemId] == None:
 			return("no order with that number")
 		return(self.allOrders[itemId])
-		
+
 
 	def getAllOrders(self):
 		return(json.dumps(self.allOrders))
