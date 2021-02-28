@@ -13,7 +13,7 @@ I found this: [Creating Web APIs with Python and Flask ](https://programminghist
 
 `NOTE:`
 
-This is a gross and horrible little API **that works** (at least on my machine 🤣). You can run on your machine pretty easily.
+This is a gross and horrible little API **that works** (at least on my machine 🤣). You can run it on your machine pretty easily.
 
 `You're not allowed to judge me because I'm not an engineer and I never claimed to be one.` 😬😄
 
